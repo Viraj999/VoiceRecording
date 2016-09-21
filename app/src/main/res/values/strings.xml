@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VoiceRecording</string>
+    <string name="recording_title">Audio Recording</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="play">PLAY</string>
+    <string name="clear">CLEAR</string>
+
+</resources>
